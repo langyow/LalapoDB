@@ -1,8 +1,11 @@
 {
-  "panels": [
-    "skytech.ignorelist.com",
-    "127.0.0.1",
+  "allowed_hosts": [
     "localhost",
-    "69d6039c-95bb-4d2a-afad-3b366e7962a4"
+    "127.0.0.1",
+    "ss2.crutl2f.my.id",
+    "panel.crutl2f.my.id",
+    "skytech.ignorelist.com",
+    "192.168.1.1",
+    "your.custom.domain"
   ]
 }
